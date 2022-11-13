@@ -1,0 +1,12 @@
+with open("flag.txt") as file:
+	r = file.read()
+	code = []
+	for i in r:
+		code.append(ord(i))
+	ciph = []
+	for i in code:
+		ciph.append(((i^ord("2")^ord("0")^ord("2")^ord("2"))%95)+32)
+	char = []
+	for i in ciph:
+		char.append(chr(i))
+	print("".join(char))

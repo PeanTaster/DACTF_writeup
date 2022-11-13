@@ -1,0 +1,10 @@
+with open("flag.txt") as f:
+	flag = f.read()
+	s = flag[:5]
+	k = 0
+	for i in s:
+		k ^= ord(i)
+	cr = ""
+	for j in flag:
+		cr += chr((ord(j) ^ k ) + 30)
+	print(cr)
