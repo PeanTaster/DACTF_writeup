@@ -18,4 +18,4 @@
 
 ## Ответ
 
-`flag{Th1s\_CrypT\_Fl@g}`
+`flag{Th1s_CrypT_Fl@g}`

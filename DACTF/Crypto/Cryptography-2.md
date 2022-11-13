@@ -18,4 +18,4 @@
 
 ## Ответ
 
-`flag{tH1s\_EasY\_Cr4pt0_F1@g}\`
+`flag{tH1s_EasY_Cr4pt0_F1@g}\`
