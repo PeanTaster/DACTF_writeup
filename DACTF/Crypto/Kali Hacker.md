@@ -16,7 +16,7 @@
 
 Обычно для того, чтобы сбрутить пароль из /etc/shadow требутся программа unshadow, но тут можно справиться без нее. Просто запускаем Джона.
 
-`john --show shadow`
+`john --show shadow --wordlist=rockyou.txt`
 
 ## Ответ
 
