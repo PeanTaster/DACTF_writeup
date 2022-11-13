@@ -7,7 +7,7 @@
 Верху бред, не обращай внимания. Это самая обычная стега.
 
 
-[Rolling hash.docx](../../_resources/Rolling hash.docx)
+[Rolling hash.docx](https://github.com/PeanTaster/DACTF_writeup/blob/main/_resources/Rolling%20hash.docx?raw=true)
 
 
 ## Решение
